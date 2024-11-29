@@ -38,7 +38,7 @@ idk what is it with me and spamming but....... I just made a spam bot in case yo
 ### Usage
 1.**Spam command**: `/spam <message>`
 - Users with the "Spammer" role can use this command to send `<message>` 100 times in the channel.
-### Exapmle 
+### Example 
 - Assign the "Spammer" role to a user (can ofcourse be changed).
 - Use the following command in any discord channel:
   ```
